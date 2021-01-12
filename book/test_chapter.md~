@@ -13,6 +13,7 @@ a = \int_0^x \sin(x) dx
 
 More text now inline svg:
 
+{::nomarkdown}
 <svg height="200" width = "1000">
    <defs>
    <!&#x2013; arrowhead marker definition &#x2013;>
@@ -44,4 +45,5 @@ More text now inline svg:
     </div>
    </foreignObject>
 </svg>
+{:/}
 
