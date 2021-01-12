@@ -11,7 +11,7 @@ Subchapter text
 a = \int_0^x \sin(x) dx
 \\]
 
-More text now inline svg:
+More text now external svg:
 
-\![](./expr.svg)
+{{#include ./expr.svg}}
 
