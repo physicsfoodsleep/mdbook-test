@@ -1,0 +1,6 @@
+[book]
+authors = ["Brian"]
+language = "en"
+multilingual = false
+src = "src"
+title = "mdbook-testing"
