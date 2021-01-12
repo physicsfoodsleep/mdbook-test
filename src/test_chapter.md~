@@ -13,7 +13,7 @@ a = \int_0^x \sin(x) dx
 
 More text now inline svg:
 
-{::nomarkdown}
+\![](data:image/svg+xml,
 <svg height="200" width = "1000">
    <defs>
    <!&#x2013; arrowhead marker definition &#x2013;>
@@ -44,6 +44,5 @@ More text now inline svg:
      \(\theta\)
     </div>
    </foreignObject>
-</svg>
-{:/}
+</svg>)
 
