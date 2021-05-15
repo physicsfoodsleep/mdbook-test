@@ -24,7 +24,7 @@ height="220" width = "1000">
    <!-- angle arc with label -->
    <path d= "M425 136 A5 5 0 1 1 430,150"
    fill="none" stroke="black" stroke-width="2"/>
-   <foreignObject x="440" y="125" width="30" height="35">
+   <foreignObject x="440" y="125" width="50" height="35">
     <div xmlns="http://www.w3.org/1999/xhtml">
      $\theta$
     </div>
