@@ -13,7 +13,7 @@ height="220" width = "1000">
    <!-- Force link with arrowhead and label-->
    <polyline points ="400,150 500,100"
    fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-   <foreignObject x="475" y="75" width="30" height="35">
+   <foreignObject x="475" y="75" width="35" height="35">
     <div xmlns="http://www.w3.org/1999/xhtml">
      $F_1$
     </div>
@@ -21,7 +21,7 @@ height="220" width = "1000">
    <!-- second force -->
    <polyline points ="300,150 200,75"
    fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-   <foreignObject x="225" y="100" width="30" height="35">
+   <foreignObject x="200" y="100" width="35" height="35">
     <div xmlns="http://www.w3.org/1999/xhtml">
      $F_2$
     </div>
@@ -40,11 +40,11 @@ height="220" width = "1000">
     </div>
    </foreignObject>
    <!-- second angle arc with label -->
-   <path d= "M325 136 A5 5 0 1 1 270,150"
+   <path d= "M325 136 A5 5 0 1 1 180,150"
    fill="none" stroke="black" stroke-width="2"/>
-   <foreignObject x="275" y="125" width="50" height="35">
+   <foreignObject x="225" y="125" width="50" height="35">
     <div xmlns="http://www.w3.org/1999/xhtml">
-     $\theta$
+     $\phi$
     </div>
    </foreignObject>
 </svg>
