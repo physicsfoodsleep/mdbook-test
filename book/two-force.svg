@@ -40,7 +40,7 @@ height="220" width = "1000">
     </div>
    </foreignObject>
    <!-- second angle arc with label -->
-   <path d= "M275 136 A5 5 0 1 1 265,150"
+   <path d= "M275 137 A5 -5 0 1 1 265,150"
    fill="none" stroke="black" stroke-width="2"/>
    <foreignObject x="225" y="125" width="50" height="35">
     <div xmlns="http://www.w3.org/1999/xhtml">
